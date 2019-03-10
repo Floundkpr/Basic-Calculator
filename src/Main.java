@@ -10,5 +10,5 @@ public class Main {
         SimpleDateFormat formatForDateNow = new SimpleDateFormat("ddMMyyyy_HHmmss");
 
         System.out.println("Текущая дата " + formatForDateNow.format(dateNow));
-    }
+    }l
 }
