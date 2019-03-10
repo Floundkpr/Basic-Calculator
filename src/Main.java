@@ -35,7 +35,6 @@ public class Main {
             writer.flush();
         }
         catch(IOException ex){
-
             System.out.println(ex.getMessage());
         }
     }
