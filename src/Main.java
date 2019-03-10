@@ -1,4 +1,3 @@
-
 import java.io.FileWriter;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
@@ -27,8 +26,6 @@ public class Main {
 
             System.out.println(ex.getMessage());
         }
-
-
 
         System.out.println("Текущая дата " + formatForDateNow.format(dateNow));
     }
